@@ -1,4 +1,4 @@
-# Biljettautomat 1 #
+# Biljettautomat1 #
 
 Den här uppgiften går ut på att skriva en del av mjukvaran i en biljettautomat för pendeltåg.
 
